@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (Full-Stack)
+# Manage your Expenses 💸 (Full-Stack)
 
 A minimal production-style full-stack Expense Tracker built with a focus on correctness, reliability, and real-world conditions.
 
@@ -30,7 +30,7 @@ Backend API: [https://expense-tracker-backend-hxuc.onrender.com ](https://expens
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Features
 - Create a new expense (amount, category, description, date)
@@ -84,7 +84,7 @@ MongoDB Atlas was chosen because:
 
 ### 1️⃣ Clone Repository
 
-git clone  [https://github.com/Pranavkashikey/expenses](https://github.com/Pranavkashikey/expenses)
+git clone  [https://github.com/MaDhUvErMa2003/manage_expenses](https://github.com/MaDhUvErMa2003/manage_expenses)
 
 cd expenses
 
@@ -95,7 +95,7 @@ Create a `.env` file inside backend:
 backend run - npm start
 
 ### 3️⃣ Frontend Setup
-cd ../frontend
+cd frontend
 npm install
 npm run dev
 
