@@ -8,8 +8,8 @@ This project allows users to record, view, filter, and analyze personal expenses
 
 ## 🌐 Live Demo
 
-Frontend:[ https://fenmo-expense-lab.vercel.app ](https://fenmo-expense-lab.vercel.app/) 
-Backend API: [https://expense-tracker-backend-hxuc.onrender.com ](https://expense-tracker-backend-hxuc.onrender.com) 
+Frontend:[ https://expenseaiq.vercel.app/ ](https://expenseaiq.vercel.app/) 
+Backend API: [https://manage-expenses.onrender.com](https://manage-expenses.onrender.com) 
 
 ---
 
